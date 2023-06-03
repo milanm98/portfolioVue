@@ -4,8 +4,31 @@
   max-width: 1280px;
   margin: 0 auto;
   padding: 2rem;
-
   font-weight: normal;
+}
+
+.dark-blue {
+  color: #0a1828;
+}
+
+.gold {
+  color: #bfa181;
+}
+
+.turquoise {
+  color: #178582;
+}
+
+.background-dark-blue {
+  background-color: #0a1828;
+}
+
+.background-gold {
+  background-color: #bfa181;
+}
+
+.background-turquoise {
+  background-color: #178582;
 }
 
 a,
