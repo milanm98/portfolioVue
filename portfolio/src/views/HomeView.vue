@@ -1,9 +1,9 @@
 <script setup lang="ts"></script>
 
 <template>
-  <main class="flex flex-col lg:flex-row justify-center items-center">
+  <main>
     <h1
-      class="p-5 lg:p-12 gold text-2xl lg:text-4xl whitespace-normal leading-10 lg:leading-relaxed m-1 lg:m-12 shadow-2xl shadow-blue-500/50"
+      class="p-5 lg:p-12 gold text-2xl lg:text-4xl whitespace-normal leading-10 lg:leading-relaxed m-1 lg:m-12 shadow-2xl border-animation"
     >
       Welcome to <span class="turquoise underline">my portfolio</span> website. I'm a web developer
       who is proficient in learning and working with
